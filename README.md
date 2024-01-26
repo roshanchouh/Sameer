@@ -20,11 +20,11 @@ pip install futures
 
 pip install rich
 
-rm -rf FACEBOOK-LO9D3R
+rm -rf Sameer
 
 git clone https://github.com/roshanchouh/Sameer.git
 
-cd ROSHAN
+cd Sameer
 
 git pull
 
